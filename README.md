@@ -8,6 +8,8 @@ A Next.js web app to detect, visualize, and clean non‑printable or invisible U
 ## Demo
 
 - Local development: `npm run dev` → `http://localhost:3000`
+- ![Uploading image.png…]()
+
 
 ## Features
 
