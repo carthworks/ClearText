@@ -3,6 +3,12 @@
 # ClearText: Unicode Cleaner & Exporter
 # Paste, preview, and export text without hidden clutter.
 
+What it does: Detects hidden/invisible Unicode characters (U+200B ZERO WIDTH SPACE, U+00A0 NBSP) in your text.
+
+How to use: Paste or upload your text → preview invisible characters → clean with one click → copy/export.
+
+Benefits: Prevents hidden bugs in code, avoids formatting issues in documents, and helps students understand Unicode categories.
+
 A Next.js web app to detect, visualize, and clean non‑printable or invisible Unicode characters in pasted or uploaded text files. Includes smart normalization rules (NBSP → space, smart quotes → straight quotes, fancy dashes → -) and configurable cleaning by Unicode category.
 
 ## Demo
